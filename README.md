@@ -18,24 +18,24 @@
 
 | Feature | Available |
 | --- | --- |
-| Easy Setup |✅|
-| Mystery Chest |✅|
-| Ender Chest Loot |✅|
-| Statue Kills |✅|
-| Team Mode |✅|
-| Hive Resource Pack |✅|
-| Border |✅|
-| Models |✅|
-| Texture |✅|
-| Random Arena Selector |✅|
-| Map Reset |✅|
-| Custom Ore |✅|
-| Custom Ore Message |✅|
-| Blocks Drop Center |✅|
-| Loading Screen |✅|
-| SkyWars Locker |✅|
-| Statistic Player |✅|
-| Winner Statue |✅|
+| Easy Setup |✔️|
+| Mystery Chest |✔️|
+| Ender Chest Loot |✔️|
+| Statue Kills |✔️|
+| Team Mode |✔️|
+| Hive Resource Pack |✔️|
+| Border |✔️|
+| Models |✔️|
+| Texture |✔️|
+| Random Arena Selector |✔️|
+| Map Reset |✔️|
+| Custom Ore |✔️|
+| Custom Ore Message |✔️|
+| Blocks Drop Center |✔️|
+| Loading Screen |✔️|
+| SkyWars Locker |✔️|
+| Statistic Player |✔️|
+| Winner Statue |✔️|
 <br>
 
 - <h3>Commands</h3>
@@ -79,3 +79,12 @@
 | statue | pawn a statue leaderboard |
 | enable | Enable arenas |
 <br>
+
+- <h3>Payments</h3>
+
+| Payments | Available |
+| --- | --- |
+| Paypal |✔️|
+| Gopay |✔️|
+| Ovo |✔️|
+| Dana |✔️|
