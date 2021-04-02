@@ -14,6 +14,8 @@
 </div>
 <br>
 
+<h3>Feature</h3>
+
 | Feature | Available |
 | --- | --- |
 | Easy Setup |  ✅|
@@ -36,6 +38,8 @@
 | Winner Statue |✅|
 <br>
 
+<h3>Commands</h3>
+
 | Commands | Description | Aliases |
 | --- | --- | --- |
 | /skywars | SkyWars Command | /sw, /sky |
@@ -45,16 +49,13 @@
 | /skywars list | List all arena | /sw list, /sky list |
 <br>
 
-<div align="center">
-    <h1>Setup</h1>
-</div>
-<br>
-
-- <h4>Create and setup an arena</h4>
+- <h3>Create and setup an arena</h3>
 1. Create an arena using `/skywars create <arenaName: string>`
 2. Join the setup mode using `/skywars setup <arenaName: string`
 3. And run available command without `/`, or using setup menu item
 <br>
+
+<h3>Setup Commands</h3>
 
 | Setup Commands | Description | 
 | --- | --- |
@@ -66,7 +67,7 @@
 | leavepos | Sets position to leave arena |
 | teamslots | Update arena slots |
 | maxbuild | Set max build |
-| maxbuild | Set min build |
+| minbuild | Set min build |
 | spectatorspawn | Set spectator spawn position |
 | waitinglobby | Set waiting lobby |
 | vehiclespawn | Set vehicle spawns |
