@@ -32,7 +32,8 @@
 | Blocks Drop Center |✅|
 | Loading Screen |✅|
 | SkyWars Locker |✅|
-| Statistic |✅|
+| Statistic Player |✅|
+| Winner Statue |✅|
 <br>
 
 | Commands | Description | Aliases |
