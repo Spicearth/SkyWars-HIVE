@@ -13,6 +13,7 @@
 </div>
 <br>
 | Feature |
+| --- |
 | Easy Setup |
 | Mystery Chest |
 | Ender Chest Loot |
@@ -23,6 +24,7 @@
 | Models |
 <br>
 | Commands | Description | Aliases |
+| --- | --- | --- |
 | /skywars | SkyWars Command | /sw, /sky |
 | /skywars help | Display all available commands | /sw help, /sky help |
 | /skywars create | Create a new arena | /sw create, /sky create |
