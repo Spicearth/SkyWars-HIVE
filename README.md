@@ -2,7 +2,7 @@
 <a href="https://www.youtube.com/watch?v=FZeBaDaRHOQ">
     <img src=https://i.imgur.com/6PrTPrD.png">
     </a>
-<a href="#">
+<a href="https://api.whatsapp.com/send/?phone=6281387011867&text=Hello,%20I%20want%20to%20buy%20SkyWars%20Hive&app_absent=0">
     <img src="https://img.shields.io/badge/chat-on%20whatsapp-95eb34.svg">
     </a>
 <a href="https://github.com/NamkiFx/SkyWars-HIVE/blob/main/LICENSE">
