@@ -14,11 +14,11 @@
 </div>
 <br>
 
-<h3>Feature</h3>
+- <h3>Feature</h3>
 
 | Feature | Available |
 | --- | --- |
-| Easy Setup |  ✅|
+| Easy Setup |✅|
 | Mystery Chest |✅|
 | Ender Chest Loot |✅|
 | Statue Kills |✅|
@@ -38,7 +38,7 @@
 | Winner Statue |✅|
 <br>
 
-<h3>Commands</h3>
+- <h3>Commands</h3>
 
 | Commands | Description | Aliases |
 | --- | --- | --- |
@@ -55,7 +55,7 @@
 3. And run available command without `/`, or using setup menu item
 <br>
 
-<h3>Setup Commands</h3>
+- <h3>Setup Commands</h3>
 
 | Setup Commands | Description | 
 | --- | --- |
