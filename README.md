@@ -44,8 +44,10 @@
 - <h4>Create and setup an arena</h4>
 1. Create an arena using `/skywars create <arenaName: string>`
 <br>
+
 2. Join the setup mode using `/skywars setup <arenaName: string`
 <br>
+
 3. And run available command without `/`, or using setup menu item
 <br>
 
