@@ -25,6 +25,14 @@
 | Border |✅|
 | Models |✅|
 | Texture |✅|
+| Random Arena Selector |✅|
+| Map Reset |✅|
+| Custom Ore |✅|
+| Custom Ore Message |✅|
+| Blocks Drop Center |✅|
+| Loading Screen |✅|
+| SkyWars Locker |✅|
+| Statistic |✅|
 <br>
 
 | Commands | Description | Aliases |
@@ -68,3 +76,4 @@
 | npclocker | Spawn a npc for locker |
 | statue | pawn a statue leaderboard |
 | enable | Enable arenas |
+<br>
