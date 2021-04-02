@@ -46,5 +46,27 @@
 <br>
 2. Join the setup mode using `/skywars setup <arenaName: string`
 <br>
-3.There are setup commands (they are without `/`), you can use them to set the arena
+3. And run available command without `/`, or using setup menu item
 <br>
+
+| Setup Commands | Description | 
+| --- | --- |
+| help | Display all available setup commands |
+| maxslots | Update arena maximum slots |
+| minslots | Update arena minimum slots |
+| arenalevel | Set arena level |
+| setspawn | Set arena spawns |
+| leavepos | Sets position to leave arena |
+| teamslots | Update arena slots |
+| maxbuild | Set max build |
+| maxbuild | Set min build |
+| spectatorspawn | Set spectator spawn position |
+| waitinglobby | Set waiting lobby |
+| vehiclespawn | Set vehicle spawns |
+| mysteryspawn | Set chest spawns |
+| flagspawn | Set flag spawns |
+| border | Update border center |
+| npchub | Spawn a npc for hub |
+| npclocker | Spawn a npc for locker |
+| statue | pawn a statue leaderboard |
+| enable | Enable arenas |
