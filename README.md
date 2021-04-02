@@ -12,17 +12,20 @@
     </a>
 </div>
 <br>
-| Feature |
-| --- |
-| Easy Setup |
-| Mystery Chest |
-| Ender Chest Loot |
-| Statue Kills |
-| Team Mode |
-| Hive Resource Pack |
-| Border |
-| Models |
+
+| Feature | Available |
+| --- | --- |
+| Easy Setup |✅|
+| Mystery Chest |✅|
+| Ender Chest Loot |✅|
+| Statue Kills |✅|
+| Team Mode |✅|
+| Hive Resource Pack |✅|
+| Border |✅|
+| Models |✅|
+| Texture |✅|
 <br>
+
 | Commands | Description | Aliases |
 | --- | --- | --- |
 | /skywars | SkyWars Command | /sw, /sky |
